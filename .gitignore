@@ -1,0 +1,8 @@
+.DS_Store
+
+# IDEA files
+.idea
+*.iml
+
+# files
+.hugo_build.lock
