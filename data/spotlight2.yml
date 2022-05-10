@@ -1,0 +1,16 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id : "menu1"
+title : "Ранние завтраки"
+content: |
+  Кухня начинает работать с 8 утра:
+  <br>
+  Яичница
+  <br>
+  Омлет
+  <br>
+  Каша (в том числе на кокосовом молоке)
+button:
+  label: "А обед?"
+  link: "#menu3"
+image: "images/menu/rb_menu5.png"

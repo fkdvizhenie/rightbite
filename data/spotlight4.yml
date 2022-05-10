@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "menu4"
+title : "Кофе и десерты"
+content: |
+  Варим отличный кофе!
+  <br>
+  Все десерты из натуральных продуктов, никаких трансжиров!
+
+button:
+  label: "Learn More"
+  link: "#"
+image: "images/menu/rb_menu4.png"

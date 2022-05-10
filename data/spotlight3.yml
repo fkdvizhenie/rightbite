@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "menu3"
+title : "Обеды"
+content: |
+  Еда как дома.
+  <br>
+  Безглютеновый хлеб!
+button:
+  label: "Coffee To Go"
+  link: "#menu4"
+image: "images/menu/rb_menu3.png"

@@ -1,0 +1,13 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Right Bite"
+subtitle: |
+  ул. Дружбы, 34\1, Белорецк
+content : |
+  Мы - кафе правильного питания Right Bite!
+  Мы специализируемся на вкусной, полезной и, главное, повседневной пище.
+button:
+  label : "О нас"
+  link : "#about"
+image : "images/rb_logo_3.png"
+
