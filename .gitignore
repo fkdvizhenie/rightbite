@@ -3,6 +3,7 @@
 # IDEA files
 .idea
 *.iml
+public
 
 # files
 .hugo_build.lock
