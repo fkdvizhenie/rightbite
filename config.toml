@@ -4,7 +4,7 @@
 
 title = "Right Bite"
 theme = "hugo-story"
-baseURL = "https://fkdvizhenie.github.io/rightbite"
+baseURL = "/"
 languageCode = "en-us"
 
 ## -----------------------------------------------
