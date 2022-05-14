@@ -1,12 +1,13 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "menu3"
-title : "Обеды"
+title : "Кофе и десерты"
 content: |
-  Еда как дома.
+  Варим отличный кофе!
   <br>
-  Безглютеновый хлеб!
+  Все десерты из натуральных продуктов, никаких трансжиров!
+
 button:
-  label: "Coffee To Go"
-  link: "#menu4"
-image: "images/menu/rb_menu3.png"
+  label: "Наверх"
+  link: "#"
+image: "images/menu/rb_menu4.jpg"

@@ -1,16 +1,16 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-id : "menu1"
-title : "Ранние завтраки"
+id: "menu2"
+title : "Обеды"
 content: |
-  Кухня начинает работать с 8 утра:
+  Едим как дома!
   <br>
-  Яичница (с помидорами на выбор)
+  Мы позиционирем себя как семейное кафе, то есть готовим с любовью и заботой о каждом!
   <br>
-  Омлет (с овощами)
+  В меню всегда присутсвует несколько видов супов, большой выбор вторых блюд и салатов.
   <br>
-  Каша (в том числе на кокосовом молоке)
+  И безглютеновые пампушки!
 button:
-  label: "А обед?"
+  label: "Coffee To Go"
   link: "#menu3"
-image: "images/menu/rb_menu5.png"
+image: "images/menu/rb_menu1.jpg"
