@@ -6,8 +6,8 @@ content: |
   Варим отличный кофе!
   <br>
   Все десерты из натуральных продуктов, никаких трансжиров!
+  <br>
+  <br>
+  <br>
 
-button:
-  label: "Наверх"
-  link: "#"
 image: "images/menu/rb_menu4.jpg"
